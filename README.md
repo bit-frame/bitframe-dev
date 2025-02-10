@@ -43,3 +43,53 @@ Updated by: ``bit-frame``
 
 By continuing to use bitframe.au and its subdomains, you acknowledge that you have read, understood, and agreed to these Terms and Conditions.
 
+## Our Privacy Policy
+
+Last Updated: ``10.02.2025``
+
+Updated by: ``bit-frame``
+
+### 1. Information We Collect
+We may collect the following types of information:
+
+Personal Information: When you sign up, we may collect your name, email address, and other details you provide.
+Usage Data: We collect data on how you interact with our website, including IP addresses, browser types, and device information.
+
+### 2. How We Use Your Information
+We use the information we collect to:
+
+Provide, operate, and improve our services.
+Personalize your experience.
+Communicate with you about updates or important notices.
+Ensure security and prevent fraud.
+
+### 3. How We Protect Your Information
+We implement security measures to protect your personal data from unauthorized access, alteration, or disclosure. However, no method of transmission over the internet is 100% secure.
+
+### 4. Sharing Your Information
+We do not sell your personal information. We may share data with:
+Legal authorities if required by law.
+Third-Party Services: We may use third-party services, including analytics tools (such as Google Analytics) and payment processors, to assist in providing our services. These third parties may collect and process data under their own privacy policies.
+
+### 5. Your Choices and Rights
+You have the right to:
+
+Access, update, or delete your personal data.
+Opt out of marketing communications.
+Disable cookies through your browser settings.
+GDPR/CCPA Compliance: If you are a resident of the EU or California, you may have additional rights under GDPR or CCPA, such as the right to request data portability or opt out of the sale of personal information.
+
+### 6. Third-Party Links
+Our website may contain links to third-party sites. We are not responsible for their privacy policies.
+
+### 7. Children’s Privacy
+We do not knowingly collect personal data from children under the age of 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us to have the data deleted.
+
+### 8. Data Breach Policy
+In the event of a data breach, we will notify affected users as soon as possible and provide details on the breach and the steps we are taking to address the issue.
+
+### 9. Changes to This Policy
+We may update this Privacy Policy from time to time. Changes will be posted on this page with the updated date.
+
+### 10. Contact Us
+If you have any questions about this Privacy Policy, please contact us at bitframedev@gmail.com.
