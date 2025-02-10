@@ -5,6 +5,8 @@ The FAQ for https://bitframe.au and all other subdomains.
 
 Last Updated: ``10.02.2025``
 
+New update takes effect: ``15.02.2025``
+
 Updated by: ``bit-frame``
 
 1. By accessing or using bitframe.au, including all subdomains (e.g., blog.bitframe.au, api.bitframe.au, dev.bitframe.au), you agree to these Terms and Conditions. If you do not agree, you must discontinue use immediately.
